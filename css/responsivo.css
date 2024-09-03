@@ -1,0 +1,25 @@
+
+@media (max-width: 600px) {
+    #search-input {
+        width: calc(100% - 24px); /* Ajusta o tamanho do campo de pesquisa */
+        margin-right: 0;
+        
+    }
+    
+    #search-button {
+        width: 100%;
+        margin-top: 10px;
+        background-color: rgb(255, 255, 255);
+    }
+    
+    .container {
+        width: 80%;
+        background-color:rgb(102, 194, 194);
+        margin: 
+    }
+}
+
+#details {
+    
+    background-color: rgb(102, 194, 194);
+}
